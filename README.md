@@ -192,4 +192,4 @@ with the original axes/calibration and metadata preserved.
 
 ## License
 
-Add a license of your choice (e.g. MIT, BSD-3-Clause) here.
+GNU General Public License v3.0	GPL-3.0.
